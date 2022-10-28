@@ -5,4 +5,4 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://akashdnpatel.github.io',
                 'git_url': 'https://github.com/akashdnpatel/nbdev_tutorial',
                 'lib_path': 'nbdev_tutorial'},
-  'syms': {'nbdev_tutorial.core': {'nbdev_tutorial.core.foo': ('core.html#foo', 'nbdev_tutorial/core.py')}}}
+  'syms': {'nbdev_tutorial.core': {'nbdev_tutorial.core.prepare_dataframes': ('core.html#prepare_dataframes', 'nbdev_tutorial/core.py')}}}
