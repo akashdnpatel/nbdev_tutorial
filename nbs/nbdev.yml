@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_tutorial"
+  site-url: "https://akashdnpatel.github.io/nbdev_tutorial"
+  description: "This is a tutorial to understand nbdev as a glance"
+  repo-branch: main
+  repo-url: "https://github.com/akashdnpatel/nbdev_tutorial"
