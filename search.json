@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "Initial Template",
+    "section": "",
+    "text": "source"
+  },
+  {
+    "objectID": "core.html#visualisation-1",
+    "href": "core.html#visualisation-1",
+    "title": "Initial Template",
+    "section": "Visualisation 1",
+    "text": "Visualisation 1\n\ndf.plot.hist()\n\n<AxesSubplot: ylabel='Frequency'>"
+  },
+  {
+    "objectID": "core.html#visualisation-2",
+    "href": "core.html#visualisation-2",
+    "title": "Initial Template",
+    "section": "Visualisation 2",
+    "text": "Visualisation 2\n\ndf2.plot.scatter(x='Numbers', y='Numbers1')\n\n<AxesSubplot: xlabel='Numbers', ylabel='Numbers1'>"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "nbdev_tutorial",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "nbdev_tutorial",
+    "section": "Install",
+    "text": "Install\npip install nbdev_tutorial"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "nbdev_tutorial",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2"
+  }
+]
