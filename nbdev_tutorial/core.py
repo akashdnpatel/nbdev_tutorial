@@ -3,22 +3,22 @@
 # %% auto 0
 __all__ = ['df', 'df1', 'df2', 'prepare_dataframes']
 
-# %% ../nbs/00_core.ipynb 3
+# %% ../nbs/00_core.ipynb 2
 from nbdev.showdoc import *
 import pandas as pd
 
-# %% ../nbs/00_core.ipynb 4
+# %% ../nbs/00_core.ipynb 3
 def prepare_dataframes():
-    data = [10,20,30,40,10,20,30,40,50]
-    df = pd.DataFrame(data, columns=['Numbers'])
+    data1 = [10,20,3,40,10,20,30,40,50]
+    df = pd.DataFrame(data1, columns=['Numbers'])
     
-    data1 = [12,21,31,12,13,54,32,21,12]
-    df1 = pd.DataFrame(data1, columns=['Numbers1'])
+    data2 = [12,21,31,12,1,54,32,21,12]
+    df1 = pd.DataFrame(data2, columns=['Numbers1'])
     return df, df1
 
-# %% ../nbs/00_core.ipynb 5
+# %% ../nbs/00_core.ipynb 4
 df, df1 = prepare_dataframes()
 
-# %% ../nbs/00_core.ipynb 8
+# %% ../nbs/00_core.ipynb 7
 df2 = pd.concat([df,df1], axis=1)
 df2
