@@ -3,3 +3,5 @@ website:
     contents:
       - index.ipynb
       - 00_core.ipynb
+      - 01_issue2-part2.ipynb
+      - 01_issue2.ipynb
